@@ -1,0 +1,4 @@
+.idea
+.gitignore
+go.mod
+go.sum
